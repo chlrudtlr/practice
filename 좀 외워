@@ -1,0 +1,5 @@
+stoi // 음수도 가능
+to_srting
+
+toupper(문자열) //소문자 -> 대문자 변환
+tolower(문자열) //대문자 -> 소문자 변환
