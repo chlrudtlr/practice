@@ -6,6 +6,7 @@ using namespace std;
 
 int main() {
 
+  // 첫 번째 방법
     string str = "hello my name is choi kyung sik";
     vector<int> index;
     vector<string> s;
@@ -25,5 +26,5 @@ int main() {
     }
     for(int i=0;i<s.size();i++){
         cout<<s[i]<<endl;
-    }
+    }  
 }
